@@ -5,7 +5,7 @@ function Home() {
         <div>
 
             <section className="hero">
-                <h1>Welcome to The Ultimate Summer Adventure of gaurav</h1>
+                <h1>Welcome to The Ultimate Summer Adventure of gaurav don</h1>
                 <p>
                     Experience fun, learning, leadership and lifelong friendships.
                     Join the most exciting summer camp of 2026!
